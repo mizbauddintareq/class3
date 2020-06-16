@@ -105,13 +105,13 @@ nav ul li a:hover {color: #0c66ff}
 .blog {
 }
 .blog {
-  padding: 30px;
+  padding: 40px;
   border-radius: 10px;
   box-shadow: 5px 5px 5px #8e848445;
 }
 .blog img {
   width: 300px;
-  height: 300px;
+  height: 250px;
 }
 .blog-section {
   padding: 0 0 100px 0;
